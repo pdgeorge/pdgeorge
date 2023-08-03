@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @pdgeorge
-- 🌱 I’m currently learning more about everything the world of programming has to offer. Robotics included.
-- 💞️ I’m looking to collaborate on Robotics projects.
+- 🌱 I’m currently learning more about everything the world of programming has to offer.
