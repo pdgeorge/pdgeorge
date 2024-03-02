@@ -1,2 +1,4 @@
 - 👋 Hi, I’m @pdgeorge
 - 🌱 I’m currently learning more about everything the world of programming has to offer.
+- Yes, the above is practically unchanged from when I first set it this up years ago because it is still relevant.
+- I am still pdgeorge, and I still want to learn more. The only difference, I have learned a fraction that there is to learn.
